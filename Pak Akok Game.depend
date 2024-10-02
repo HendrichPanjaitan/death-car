@@ -1,0 +1,10 @@
+# depslib dependency file v1.0
+1687198347 source:c:\users\asus\onedrive\dokumen\coding\proglan\graphic program c++\pak akok game\main.cpp
+	<stdio.h>
+	<conio.h>
+	<stdlib.h>
+	<cstdio>
+	<ctime>
+	<graphics.h>
+	<mmsystem.h>
+
